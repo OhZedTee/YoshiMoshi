@@ -1,0 +1,1006 @@
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-9)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1-10)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 12)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 13)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 14)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song1.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song2.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song3.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\song4.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 15)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\GreenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\LeverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\Wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Tiles\cloud.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\HudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\Interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\GameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TextBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\LeaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Fonts\TipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\Level Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Over1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\High Score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\Game Complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 16)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+E:\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 17)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 18)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving1.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Audio\moving.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 19)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\life up.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi back.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\life up.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\Yoshi SpriteSheet.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\YoshiMoshi (1- 20)\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\life up.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\life up.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Camera2D.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\PrimitiveDrawing.dll
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe.manifest
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.application
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori Talmor\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb
+C:\Users\Ori\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.csprojResolveAssemblyReference.cache
+C:\Users\Ori\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.exe
+C:\Users\Ori\Desktop\Learning Documents & Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\YoshiMoshi.pdb

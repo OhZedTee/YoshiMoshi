@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\apple.png</Source>
+      <Name>Tiles\apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\apple.xnb</Output>
+      <Time>2013-12-26T18:43:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\black.png</Source>
+      <Name>Tiles\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\black.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\blue.png</Source>
+      <Name>Tiles\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\blue.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\finish.png</Source>
+      <Name>Tiles\finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\finish.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\greenDown.png</Source>
+      <Name>Tiles\greenDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenDown.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\greenUp.png</Source>
+      <Name>Tiles\greenUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\greenUp.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\leverBlue.png</Source>
+      <Name>Tiles\leverBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverBlue.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\leverOrange.png</Source>
+      <Name>Tiles\leverOrange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\leverOrange.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\orange.png</Source>
+      <Name>Tiles\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\orange.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\red.png</Source>
+      <Name>Tiles\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\red.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\star.png</Source>
+      <Name>Tiles\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\star.xnb</Output>
+      <Time>2013-12-28T16:21:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\wood.png</Source>
+      <Name>Tiles\wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\wood.xnb</Output>
+      <Time>2013-12-11T14:36:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\solidred.png</Source>
+      <Name>Images\solidred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\solidred.xnb</Output>
+      <Time>2013-12-30T10:37:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\leaderboards.jpg</Source>
+      <Name>Images\leaderboards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\leaderboards.xnb</Output>
+      <Time>2013-12-30T18:09:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\credits.jpg</Source>
+      <Name>Images\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\credits.xnb</Output>
+      <Time>2013-12-30T18:11:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2014-01-07T14:30:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yoshi front.png</Source>
+      <Name>Images\yoshi front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi front.xnb</Output>
+      <Time>2014-01-14T21:40:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yoshi left.png</Source>
+      <Name>Images\yoshi left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi left.xnb</Output>
+      <Time>2014-01-13T17:08:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yoshi right.png</Source>
+      <Name>Images\yoshi right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Images\yoshi right.xnb</Output>
+      <Time>2014-01-13T16:46:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\life up.png</Source>
+      <Name>Tiles\life up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\life up.xnb</Output>
+      <Time>2014-01-20T11:30:59.9397416-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\player.png</Source>
+      <Name>Tiles\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Tiles\player.xnb</Output>
+      <Time>2014-01-20T11:30:59.9397416-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hudFont.spritefont</Source>
+      <Name>Fonts\hudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\hudFont.xnb</Output>
+      <Time>2013-12-24T11:06:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\interaction.spritefont</Source>
+      <Name>Fonts\interaction</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\interaction.xnb</Output>
+      <Time>2013-12-24T11:35:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gameOver.spritefont</Source>
+      <Name>Fonts\gameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\gameOver.xnb</Output>
+      <Time>2013-12-28T15:50:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\textBoxFont.spritefont</Source>
+      <Name>Fonts\textBoxFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\textBoxFont.xnb</Output>
+      <Time>2013-12-30T10:47:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\leaderBoardsFont.spritefont</Source>
+      <Name>Fonts\leaderBoardsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\leaderBoardsFont.xnb</Output>
+      <Time>2013-12-30T17:26:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\titleFont.spritefont</Source>
+      <Name>Fonts\titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\titleFont.xnb</Output>
+      <Time>2013-12-31T12:57:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\creditsFont.spritefont</Source>
+      <Name>Fonts\creditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\creditsFont.xnb</Output>
+      <Time>2013-12-31T14:26:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\tipFont.spritefont</Source>
+      <Name>Fonts\tipFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Fonts\tipFont.xnb</Output>
+      <Time>2014-01-09T20:38:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\level complete.mp3</Source>
+      <Name>Audio\level complete</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\level complete.xnb</Output>
+      <Time>2013-12-29T14:18:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\star.mp3</Source>
+      <Name>Audio\star</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\star.xnb</Output>
+      <Time>2013-12-29T14:18:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\jump.mp3</Source>
+      <Name>Audio\jump</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\jump.xnb</Output>
+      <Time>2013-12-29T14:18:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\game over.mp3</Source>
+      <Name>Audio\game over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\game over.xnb</Output>
+      <Time>2013-12-29T13:00:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\high score.mp3</Source>
+      <Name>Audio\high score</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\high score.xnb</Output>
+      <Time>2013-12-29T12:17:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\game complete.mp3</Source>
+      <Name>Audio\game complete</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\game complete.xnb</Output>
+      <Time>2013-12-29T15:12:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\background.mp3</Source>
+      <Name>Audio\background</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\background.xnb</Output>
+      <Extra>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\background.wma</Extra>
+      <Time>2013-12-05T16:55:18.5784524-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\life up.mp3</Source>
+      <Name>Audio\life up</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\life up.xnb</Output>
+      <Time>2014-01-20T20:10:55.6946952-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\apple.wav</Source>
+      <Name>Audio\apple</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\apple.xnb</Output>
+      <Time>2013-12-29T14:54:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\death.wav</Source>
+      <Name>Audio\death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\death.xnb</Output>
+      <Time>2013-12-29T15:20:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gravity swap.wav</Source>
+      <Name>Audio\gravity swap</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\Audio\gravity swap.xnb</Output>
+      <Time>2013-12-31T14:42:52-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DB491B89-8B45-4362-A081-68B4C1497270}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ori\Desktop\Learning Documents &amp; Misc. Documents\School\Grade 10\ICS3U1\Assignments\ISU\TalmorO ISU Yoshi Moshi\YoshiMoshi\YoshiMoshi\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-03T18:19:19.116389-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,41 @@
+Content\Tiles\apple.xnb
+Content\Tiles\black.xnb
+Content\Tiles\blue.xnb
+Content\Tiles\finish.xnb
+Content\Tiles\greenDown.xnb
+Content\Tiles\greenUp.xnb
+Content\Tiles\leverBlue.xnb
+Content\Tiles\leverOrange.xnb
+Content\Tiles\orange.xnb
+Content\Tiles\red.xnb
+Content\Tiles\star.xnb
+Content\Tiles\wood.xnb
+Content\Images\solidred.xnb
+Content\Images\leaderboards.xnb
+Content\Images\credits.xnb
+Content\Images\background.xnb
+Content\Images\yoshi front.xnb
+Content\Images\yoshi left.xnb
+Content\Images\yoshi right.xnb
+Content\Tiles\life up.xnb
+Content\Tiles\player.xnb
+Content\Fonts\hudFont.xnb
+Content\Fonts\interaction.xnb
+Content\Fonts\gameOver.xnb
+Content\Fonts\textBoxFont.xnb
+Content\Fonts\leaderBoardsFont.xnb
+Content\Fonts\titleFont.xnb
+Content\Fonts\creditsFont.xnb
+Content\Fonts\tipFont.xnb
+Content\Audio\level complete.xnb
+Content\Audio\star.xnb
+Content\Audio\jump.xnb
+Content\Audio\game over.xnb
+Content\Audio\high score.xnb
+Content\Audio\game complete.xnb
+Content\Audio\background.xnb
+Content\Audio\background.wma
+Content\Audio\life up.xnb
+Content\Audio\apple.xnb
+Content\Audio\death.xnb
+Content\Audio\gravity swap.xnb
